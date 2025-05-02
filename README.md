@@ -10,7 +10,6 @@
 - **BeautifulSoup**, **Requests** – 웹 크롤링
 - **Matplotlib**, **Seaborn** – 시각화
 - **CSV 파일 처리 및 병합**
-- **Selenium** *(필요 시)* – 동적 페이지 크롤링
 
 ### 📊 주요 내용
 
